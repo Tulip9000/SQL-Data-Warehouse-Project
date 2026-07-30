@@ -5,6 +5,6 @@ Building a modern Data Warehouse using SQL Server, including ETL processes, Data
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-## Project Requirements
+## 🚀 Project Requirements
 
-Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
